@@ -29,13 +29,13 @@ inventories/
 
 .coverage
 
-bin/
+# bin/
 build/
 avalanche-cli
 avalanche
 
 dist/
-bin/
+# bin/
 
 tests/e2e/hardhat/artifacts
 tests/e2e/hardhat/cache
